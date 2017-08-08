@@ -1,0 +1,23 @@
+.jumbotron {
+	background: darkgrey;
+	color: blue;
+	text-align: center;
+}
+
+.panel-body {
+	background: darkgrey;
+	color: blue;
+}
+
+.btn {
+	background: lightgrey;
+	color: blue;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
