@@ -1,13 +1,13 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyBENIFRkNTZKzQs8u2D5_UQFDbF8IVAFgk",
-    authDomain: "train-scheduler-ed040.firebaseapp.com",
-    databaseURL: "https://train-scheduler-ed040.firebaseio.com",
-    projectId: "train-scheduler-ed040",
+    apiKey: "AIzaSyAG45D2fQWvHpdMZ8zJA5B77JGGVEfMlYA",
+    authDomain: "train-scheduler-e4206.firebaseapp.com",
+    databaseURL: "https://train-scheduler-e4206.firebaseio.com",
+    projectId: "train-scheduler-e4206",
     storageBucket: "",
-    messagingSenderId: "515371926367"
-};
-firebase.initializeApp(config);
+    messagingSenderId: "303942872774"
+  };
+  firebase.initializeApp(config);
 
 var database = firebase.database();
 
